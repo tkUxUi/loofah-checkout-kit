@@ -1,0 +1,21 @@
+{
+  "name": "@tk_ui/loofah-checkout-kit",
+  "version": "1.0.0",
+  "description": "A small React design system package for the Loofah Grove checkout and order tracking UI project.",
+  "main": "src/index.jsx",
+  "type": "module",
+  "peerDependencies": {
+    "react": "^18.0.0 || ^19.0.0",
+    "react-dom": "^18.0.0 || ^19.0.0"
+  },
+  "keywords": [
+    "figma",
+    "make-kit",
+    "design-system",
+    "checkout",
+    "order-tracking",
+    "react"
+  ],
+  "author": "Tanya",
+  "license": "MIT"
+}
